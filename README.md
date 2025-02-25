@@ -1,5 +1,8 @@
-Project Name: Factors that Contribute to the Changes in Global Happiness and the Impact of the Pandemic
-Authors: Emily Feng, Gege Jiang, James Jing
+# Project Name: Factors that Contribute to the Changes in Global Happiness and the Impact of the Pandemic
+
+A machine learning-based analysis exploring factors influencing global happiness scores, including the impact of the pandemic.
+
+## Authors: Emily Feng, Gege Jiang, James Jing
 
 
 Running main.py runs the program and all analyses
